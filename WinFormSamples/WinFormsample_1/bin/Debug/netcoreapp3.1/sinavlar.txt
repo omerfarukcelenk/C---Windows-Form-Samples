@@ -1,0 +1,3 @@
+Omer 45 90
+Gurkan 90 80
+Atahan 80 40

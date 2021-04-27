@@ -1,0 +1,15 @@
+E:\C# repos\WinFormSamples\WinFormSamples\WinFormsample_1\bin\Debug\netcoreapp3.1\WinFormsample_1.exe
+E:\C# repos\WinFormSamples\WinFormSamples\WinFormsample_1\bin\Debug\netcoreapp3.1\WinFormsample_1.deps.json
+E:\C# repos\WinFormSamples\WinFormSamples\WinFormsample_1\bin\Debug\netcoreapp3.1\WinFormsample_1.runtimeconfig.json
+E:\C# repos\WinFormSamples\WinFormSamples\WinFormsample_1\bin\Debug\netcoreapp3.1\WinFormsample_1.runtimeconfig.dev.json
+E:\C# repos\WinFormSamples\WinFormSamples\WinFormsample_1\bin\Debug\netcoreapp3.1\WinFormsample_1.dll
+E:\C# repos\WinFormSamples\WinFormSamples\WinFormsample_1\bin\Debug\netcoreapp3.1\WinFormsample_1.pdb
+E:\C# repos\WinFormSamples\WinFormSamples\WinFormsample_1\obj\Debug\netcoreapp3.1\WinFormsample_1.csprojAssemblyReference.cache
+E:\C# repos\WinFormSamples\WinFormSamples\WinFormsample_1\obj\Debug\netcoreapp3.1\WinFormsample_1.Form1.resources
+E:\C# repos\WinFormSamples\WinFormSamples\WinFormsample_1\obj\Debug\netcoreapp3.1\WinFormsample_1.csproj.GenerateResource.cache
+E:\C# repos\WinFormSamples\WinFormSamples\WinFormsample_1\obj\Debug\netcoreapp3.1\WinFormsample_1.AssemblyInfoInputs.cache
+E:\C# repos\WinFormSamples\WinFormSamples\WinFormsample_1\obj\Debug\netcoreapp3.1\WinFormsample_1.AssemblyInfo.cs
+E:\C# repos\WinFormSamples\WinFormSamples\WinFormsample_1\obj\Debug\netcoreapp3.1\WinFormsample_1.csproj.CoreCompileInputs.cache
+E:\C# repos\WinFormSamples\WinFormSamples\WinFormsample_1\obj\Debug\netcoreapp3.1\WinFormsample_1.dll
+E:\C# repos\WinFormSamples\WinFormSamples\WinFormsample_1\obj\Debug\netcoreapp3.1\WinFormsample_1.pdb
+E:\C# repos\WinFormSamples\WinFormSamples\WinFormsample_1\obj\Debug\netcoreapp3.1\WinFormsample_1.genruntimeconfig.cache
